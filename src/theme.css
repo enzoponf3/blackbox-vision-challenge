@@ -1,6 +1,6 @@
 :root {
-  --primary: #44D1B3;
-  --red: #E94F4E;
+  --primary: #184d47;
+  --secondary: #c64756;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 
 #root {
   text-align: center;
-  background-color: white;
+  background-color: var(--primary);
   min-height: 100vh;
   display: flex;
   flex-direction: column;

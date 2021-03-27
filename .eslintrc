@@ -38,10 +38,11 @@
         "printWidth": 100,
         "trailingComma": "all",
         "tabWidth": 2,
-        "semi": true,
+        "semi": false,
         "singleQuote": false,
         "bracketSpacing": false,
-        "arrowParens": "always"
+        "arrowParens": "always",
+        "endOfLine":"auto"
       }
     ],
     "import/order": ["warn", {"newlines-between": "always"}],
